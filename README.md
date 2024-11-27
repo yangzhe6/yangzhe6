@@ -11,11 +11,11 @@
 可以说是一无是处
 ## 🎨 项目展示
 这里是一些我引以为傲的项目，它们不仅仅是代码，更是我与世界对话的方式：
-1. **[Design and Implementation of Drifting Trajectory Prediction Based on LightGBM]**：[我的毕设嘻嘻🤭]
-2. **[A new catalogue of observations of Jupiter]**：[正在进行中🆒]
+1. **Design and Implementation of Drifting Trajectory Prediction Based on LightGBM**：我的毕设嘻嘻🤭
+2. **A new catalogue of observations of Jupiter**：正在进行中🆒
 ## 🤝 找到我
-- 📧 Email：[zhe9052@gmail.com]
-- 📍 LinkedIn：[xiaoqinglong521]
+- 📧 Email：zhe9052@gmail.com
+- 📍 LinkedIn：xiaoqinglong521
 
 代码是无限的，而bug是有限的，致力于用无限的代码去消灭有限的bug吧！🚀
 
